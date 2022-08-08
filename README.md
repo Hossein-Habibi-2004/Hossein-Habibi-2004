@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hossein</h1>
-- 🌱 I’m currently learning **JavaScript, React, FastAPI**
+- 🌱 I’m currently learning **JavaScript, React**
 
 - 💬 Ask me about **python**
 
